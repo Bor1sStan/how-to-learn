@@ -1,0 +1,5 @@
+@import url(../two-columns.css);
+
+.two-columns__span-accent {
+   font-weight: bold;
+}
