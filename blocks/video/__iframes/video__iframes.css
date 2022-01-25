@@ -3,6 +3,6 @@
    padding: 0;
    display: flex;
    flex-direction: row;
-   transform: translate(0,50px);
    list-style: none;
+   transform: translate(0, 50px);
 }
