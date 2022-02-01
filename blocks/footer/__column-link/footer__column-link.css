@@ -6,11 +6,9 @@
    list-style: none;
    padding: 0;
    color: white;
+   transition: ease-in 0.5s;
 }
 
 .footer__column-link:hover {
-   opacity: 80%;
-   text-decoration: underline;
-   color: yellow;
-   transition: ease-in 0.5s;
+   opacity: 75%;
 }
